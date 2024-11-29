@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	string Name, Course, shool,
+	
+   cout << "Nickname: ";
+   cin >>  Name;
+   cout << "Course-Year Level: ";
+   cin >> Course;
+   cout << "School: ";
+   cin >> shool;
+   return 0;
+}
